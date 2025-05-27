@@ -4,58 +4,35 @@
     "email": "seenmoon12@gmail.com",
     "phone": "010-3191-7697",
     "website": "https://haeun-moon.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "One Small Step for an Engineer!",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Sungnam",
+      "countryCode": "KR",
+      "region": "Gyeonggi"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "haeun-moon",
+        "url": "https://github.com/haeun-moon"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "haeun-moon",
+        "url": "https://www.linkedin.com/in/haeun-moon/"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "SungKyunKwan University",
+      "area": "B.S. in Architecture",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
